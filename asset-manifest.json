@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wsp-project/static/css/main.d6d4a31a.chunk.css",
+    "main.js": "/wsp-project/static/js/main.caebfb8f.chunk.js",
+    "main.js.map": "/wsp-project/static/js/main.caebfb8f.chunk.js.map",
+    "runtime-main.js": "/wsp-project/static/js/runtime-main.aff3c867.js",
+    "runtime-main.js.map": "/wsp-project/static/js/runtime-main.aff3c867.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/wsp-project/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.3a3e5772.chunk.js": "/wsp-project/static/js/2.3a3e5772.chunk.js",
+    "static/js/2.3a3e5772.chunk.js.map": "/wsp-project/static/js/2.3a3e5772.chunk.js.map",
+    "static/js/3.8daa5223.chunk.js": "/wsp-project/static/js/3.8daa5223.chunk.js",
+    "static/js/3.8daa5223.chunk.js.map": "/wsp-project/static/js/3.8daa5223.chunk.js.map",
+    "index.html": "/wsp-project/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/wsp-project/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.d6d4a31a.chunk.css.map": "/wsp-project/static/css/main.d6d4a31a.chunk.css.map",
+    "static/js/2.3a3e5772.chunk.js.LICENSE.txt": "/wsp-project/static/js/2.3a3e5772.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff3c867.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.3a3e5772.chunk.js",
+    "static/css/main.d6d4a31a.chunk.css",
+    "static/js/main.caebfb8f.chunk.js"
+  ]
+}
